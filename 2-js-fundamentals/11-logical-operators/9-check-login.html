@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <script>
+    'use strict';
+
+    const adminName = prompt('Enter your name:', '');
+
+    if (!adminName) {
+      alert('Canceled')
+    } else if (adminName !== 'Admin') {
+      alert('I don\'t know you')
+    } else {
+      const password = prompt('Enter your password:', '');
+
+      if (!password) {
+        alert('Canceled')
+      } else if (password !== 'TheMaster') {
+        alert('Wrong password');
+      } else {
+        alert('Welcome');
+      }
+    }
+  </script>
+</body>
+</html>
