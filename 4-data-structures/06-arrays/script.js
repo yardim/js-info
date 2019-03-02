@@ -142,24 +142,93 @@
 // =====================================
 // eratosphen
 
-function getSimpleNumbers(n) {
-  if (n < 2) {
-    return 1;
+// function getFirstTrueIndex(arr, startPosition) {
+//   for (let i = startPosition; i < arr.length; i++) {
+//     if (arr[i]) {
+//       return i;
+//     }
+//   }
+// }
+
+
+// function getSimpleNumbersSum(n) {
+//   if (n <= 2) {
+//     return [2];
+//   }
+
+//   let sieve = [];
+
+//   for (let i = 0; i <= n; i++) {
+//     sieve.push(true);
+//   }
+
+//   for (let p = 2; p * p < n; p = getFirstTrueIndex(sieve, p + 1)) {
+//     for (let j = 2 * p; j < sieve.length; j += p) {
+//       sieve[j] = false;
+//     }
+//   }
+
+//   const numbers = [];
+
+//   for (let i = 2; i < sieve.length; i++) {
+//     if (sieve[i]) {
+//       numbers.push(i);
+//     }
+//   }
+
+
+//   let sum = 0;
+
+//   for (let i = 0; i < numbers.length; i++) {
+//     sum += numbers[i];
+//   }
+
+//   return sum;
+// }
+
+// const simpleNumbers = getSimpleNumbersSum(100);
+// console.log(simpleNumbers);
+
+
+
+// =====================================
+// get sub sum
+
+function getArrSubSum(arr, startIndex, endIndex) {
+  let sum = 0;
+
+  for (let i = startIndex; i <= endIndex; i++) {
+    sum += arr[i];
   }
 
-  const allNumbers = [];
-
-  for (let i = 2; i < n; i++) {
-    allNumbers.push(i);
-  }
-
-  for (let p = allNumbers[0]; p * p < n; ) {
-    const newNumbers = [];
-
-    
-  }
-
-  console.log(allNumbers);
+  return sum;
 }
 
-getSimpleNumbers(10);
+function getSubarraySums(arr) {
+  const sumArr = [];
+
+  for (let startIndex = 0; startIndex < arr.length; startIndex++) {
+    for (let endIndex = startIndex; endIndex < arr.length; endIndex++) {
+      const subSum = getArrSubSum(arr, startIndex, endIndex);
+      sumArr.push(subSum);
+    }
+  }
+
+  return sumArr;
+}
+
+function getMaxSubSum(arr) {
+  const subSums = getSubarraySums(arr);
+  let max = subSums[0];
+
+  for (let i = 1; i < subSums.length; i++) {
+    if (subSums[i] > max) {
+      max = subSums[i];
+    }
+  }
+
+  return max < 0 ? 0 : max;
+}
+
+const testArr = [-1, -2, -3];
+console.log(getMaxSubSum(testArr));
