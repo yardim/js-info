@@ -1,3 +1,5 @@
+// 'use strict';
+
 // ============================
 // sum with closure
 
