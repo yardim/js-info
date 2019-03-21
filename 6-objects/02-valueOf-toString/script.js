@@ -1,23 +1,20 @@
 'use strict';
 
 function sum(num1) {
-  let sum = num1;
+  let currVal = num1;
 
   function inner(num2) {
-    sum += num2;
+    currVal += num2;
+    return inner;
   }
 
-  inner.valueOf = function () {
-    return sum;
-  };
-
   inner.toString = function () {
-    return sum;
+    return currVal;
   };
 
   return inner;
 }
 
 
-console.log(sum(1)(2));
+console.log(sum(1)(2)(3));
 

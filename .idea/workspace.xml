@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8964e93c-fedf-43c1-82c4-72c19dc06cc6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/02-valueOf-toString/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-objects/01-object-methids/scripts.js" afterPath="$PROJECT_DIR$/6-objects/01-object-methids/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" afterPath="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -438,12 +434,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553195460480</updated>
-      <workItem from="1553195462269" duration="7036000" />
+      <workItem from="1553195462269" duration="8021000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished 6.2 types exchanging">
+      <created>1553204666040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553204666040</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7036000" />
+    <option name="totallyTimeSpent" value="8021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -473,6 +477,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished 6.2 types exchanging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished 6.2 types exchanging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,7 +705,7 @@
     <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding />
         </state>
       </provider>
