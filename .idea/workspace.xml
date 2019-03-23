@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8964e93c-fedf-43c1-82c4-72c19dc06cc6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/03-constructors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/03-constructors/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/04-descriptors/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/04-descriptors/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" afterPath="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,19 +24,9 @@
     <favorites_list name="js-info" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/index.html">
+        <entry file="file://$PROJECT_DIR$/6-objects/04-descriptors/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
@@ -41,193 +35,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EcmaScript.js" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6-objects/04-descriptors/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-              <folding>
-                <marker date="1481021688000" expanded="true" signature="0:28" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="38:59" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="89:125" ph="/** @param {*} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="149:209" ph="/** @param {*} s ...*/" />
-                <marker date="1481021688000" expanded="true" signature="243:279" ph="/** @param {*} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="309:351" ph="/** @param {Number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="376:418" ph="/** @param {Number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="446:496" ph="/** @param {string} encodedURI ...*/" />
-                <marker date="1481021688000" expanded="true" signature="534:593" ph="/** @param {string} encodedURIComponent ...*/" />
-                <marker date="1481021688000" expanded="true" signature="649:692" ph="/** @param {string} uri ...*/" />
-                <marker date="1481021688000" expanded="true" signature="723:775" ph="/** @param {string} uriComponent ...*/" />
-                <marker date="1481021688000" expanded="true" signature="825:878" ph="/** @typedef {string|number|Symbol} PropertyKey ...*/" />
-                <marker date="1481021688000" expanded="true" signature="880:903" ph="/** @type {function} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="938:959" ph="/** @type {Object} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="992:1030" ph="/** @param {*} [value] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1057:1134" ph="/** @param {(string|string[])} [locales] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1199:1257" ph="/** @param {PropertyKey} propertyName ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1319:1361" ph="/** @param {Object} o ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1411:1469" ph="/** @param {PropertyKey} propertyName ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1537:1560" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1604:1622" ph="/** @return {*} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1666:1687" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1716:1768" ph="/** @param {...*} [args] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1793:1851" ph="/** @param {...T|Array.&lt;T&gt;} [items] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1897:1948" ph="/** @param {string} [separator] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="1996:2014" ph="/** @return {T} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2052:2097" ph="/** @param {...T} [items] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2141:2167" ph="/** @return {Array.&lt;T&gt;} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2209:2227" ph="/** @return {T} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2267:2339" ph="/** @param {Number} [start] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2388:2444" ph="/** @param {function} [compareFn] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2492:2594" ph="/** @param {Number} [start] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2658:2703" ph="/** @param {...T} [items] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2750:2772" ph="/** @return {Array} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2815:2867" ph="/** @param [value] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2895:2919" ph="/** @return {boolean} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="2964:3168" ph="/** @param {number} year ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3245:3303" ph="/** @param {string} dateString ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3342:3380" ph="/** @param {...*} args ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3404:3427" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3468:3491" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3531:3554" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3596:3619" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3664:3687" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3729:3752" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3801:3824" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3868:3891" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3935:3958" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="3999:4022" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4073:4096" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4140:4163" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4206:4229" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4277:4300" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4345:4368" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4420:4443" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4490:4513" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4558:4581" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4628:4651" ph="/** @return {number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4692:4719" ph="/** @param {number} date ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4764:4837" ph="/** @param {number} year ...*/" />
-                <marker date="1481021688000" expanded="true" signature="4896:4988" ph="/** @param {number} hour ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5045:5070" ph="/** @param {number} ms ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5121:5190" ph="/** @param {number} min ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5244:5294" ph="/** @param {number} month ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5345:5392" ph="/** @param {number} sec ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5442:5469" ph="/** @param {number} time ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5514:5541" ph="/** @param {number} date ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5589:5662" ph="/** @param {number} year ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5724:5816" ph="/** @param {number} hour ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5876:5901" ph="/** @param {number} ms ...*/" />
-                <marker date="1481021688000" expanded="true" signature="5955:6024" ph="/** @param {number} min ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6081:6131" ph="/** @param {number} month ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6185:6232" ph="/** @param {number} sec ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6285:6313" ph="/** @param {number} value ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6359:6382" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6428:6451" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6496:6573" ph="/** @param {(string|string[])} [locales] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6640:6717" ph="/** @param {(string|string[])} [locales] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6780:6857" ph="/** @param {(string|string[])} [locales] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6924:6947" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="6993:7016" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7062:7085" ph="/** @type {function} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7118:7160" ph="/** @type {function} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7245:7276" ph="/** @type {Arguments} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7311:7339" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7370:7398" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7430:7500" ph="/** @param {Object} [thisArg] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7559:7624" ph="/** @param {Object} [thisArg] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7694:7730" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7743:7779" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7795:7831" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7846:7882" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7900:7936" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="7953:7989" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8003:8039" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8058:8094" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8111:8160" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8188:8237" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8266:8315" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8344:8393" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8422:8489" ph="/** @param {number} y ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8521:8570" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8599:8648" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8676:8725" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8753:8802" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8832:8881" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8909:8961" ph="/** @param {...number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="8989:9041" ph="/** @param {...number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9069:9136" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9166:9197" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9227:9276" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9306:9355" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9383:9432" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9461:9510" ph="/** @param {number} x ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9550:9586" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9609:9645" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9668:9704" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9721:9757" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9788:9824" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9855:9906" ph="/** @param [value] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="9933:9991" ph="/** @param {Number} [fractionalDigits] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10056:10114" ph="/** @param {Number} [fractionalDigits] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10173:10224" ph="/** @param {Number} [precision] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10280:10327" ph="/** @param {Number} [radix] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10376:10399" ph="/** @return {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10443:10479" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10507:10543" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10565:10601" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10627:10663" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10689:10725" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10754:10790" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10809:10845" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10864:10900" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10919:10955" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="10974:11010" ph="/** @static ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11029:11058" ph="/** @type {boolean} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11088:11117" ph="/** @type {boolean} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11151:11172" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11205:11227" ph="/** @type {boolean} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11260:11281" ph="/** @type {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11314:11392" ph="/** @param {String|RegExp} [pattern] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11429:11505" ph="/** @param {string} [String] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11551:11600" ph="/** @param {string} [String] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11647:11705" ph="/** @param {...Number} [chars] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11748:11769" ph="/** @type {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11799:11850" ph="/** @param [value] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11877:11932" ph="/** @param {string} [nameAttribute] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="11987:12010" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12049:12072" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12113:12136" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12176:12219" ph="/** @param {Number} pos ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12264:12287" ph="/** @return {Number} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12338:12390" ph="/** @param {...string} [strings] ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12439:12462" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12503:12548" ph="/** @param {string} color ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12598:12642" ph="/** @param {Number} size ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12690:12769" ph="/** @param {string} searchString ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12833:12856" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="12899:12978" ph="/** @param {string} searchString ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13046:13090" ph="/** @param {string} href ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13134:13232" ph="/** @param {string} that ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13301:13375" ph="/** @param {RegExp} regexp ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13422:13518" ph="/** @param {RegExp|string} searchValue ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13585:13626" ph="/** @param {*} regexp ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13674:13741" ph="/** @param {Number} start ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13791:13814" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13855:13922" ph="/** @param {*} separator ...*/" />
-                <marker date="1481021688000" expanded="true" signature="13978:14001" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14043:14066" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14105:14175" ph="/** @param {Number} start ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14229:14296" ph="/** @param {Number} start ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14350:14373" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14412:14435" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14482:14505" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14558:14581" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14634:14657" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14704:14727" ph="/** @return {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14771:14792" ph="/** @type {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14822:14843" ph="/** @type {string} ...*/" />
-                <marker date="1481021688000" expanded="true" signature="14876:14928" ph="/** @param {*} [msg] ...*/" />
-              </folding>
+            <state relative-caret-position="846">
+              <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -251,6 +64,10 @@
         <option value="$PROJECT_DIR$/6-objects/01-object-methids/scripts.js" />
         <option value="$PROJECT_DIR$/6-objects/02-valueOf-toString/index.html" />
         <option value="$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js" />
+        <option value="$PROJECT_DIR$/6-objects/03-constructors/index.html" />
+        <option value="$PROJECT_DIR$/6-objects/03-constructors/script.js" />
+        <option value="$PROJECT_DIR$/6-objects/04-descriptors/index.html" />
+        <option value="$PROJECT_DIR$/6-objects/04-descriptors/script.js" />
       </list>
     </option>
   </component>
@@ -291,8 +108,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -309,7 +124,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02-valueOf-toString" />
+              <option name="myItemId" value="04-descriptors" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -339,6 +154,53 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js-info">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="6-objects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="03-constructors">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js-info">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="6-objects">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="js-info">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -347,7 +209,7 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
@@ -391,6 +253,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -427,6 +295,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8964e93c-fedf-43c1-82c4-72c19dc06cc6" name="Default" comment="" />
@@ -434,7 +305,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553195460480</updated>
-      <workItem from="1553195462269" duration="8021000" />
+      <workItem from="1553195462269" duration="8038000" />
+      <workItem from="1553372835564" duration="637000" />
+      <workItem from="1553373486527" duration="3314000" />
     </task>
     <task id="LOCAL-00001" summary="Finished 6.2 types exchanging">
       <created>1553204666040</created>
@@ -443,33 +316,49 @@
       <option name="project" value="LOCAL" />
       <updated>1553204666040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished 6.2 types exchanging">
+      <created>1553205549640</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553205549640</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8021000" />
+    <option name="totallyTimeSpent" value="11989000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18336888" sideWeight="0.495671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18763326" sideWeight="0.478355" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18336888" sideWeight="0.504329" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18763326" sideWeight="0.521645" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39935064" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,208 +378,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/6-objects/01-object-methids/scripts.js">
+    <entry file="file://$PROJECT_DIR$/6-objects/03-constructors/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6-objects/01-object-methids/index.html">
+    <entry file="file://$PROJECT_DIR$/6-objects/03-constructors/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding>
-            <marker date="1481021688000" expanded="true" signature="0:28" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="38:59" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="89:125" ph="/** @param {*} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="149:209" ph="/** @param {*} s ...*/" />
-            <marker date="1481021688000" expanded="true" signature="243:279" ph="/** @param {*} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="309:351" ph="/** @param {Number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="376:418" ph="/** @param {Number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="446:496" ph="/** @param {string} encodedURI ...*/" />
-            <marker date="1481021688000" expanded="true" signature="534:593" ph="/** @param {string} encodedURIComponent ...*/" />
-            <marker date="1481021688000" expanded="true" signature="649:692" ph="/** @param {string} uri ...*/" />
-            <marker date="1481021688000" expanded="true" signature="723:775" ph="/** @param {string} uriComponent ...*/" />
-            <marker date="1481021688000" expanded="true" signature="825:878" ph="/** @typedef {string|number|Symbol} PropertyKey ...*/" />
-            <marker date="1481021688000" expanded="true" signature="880:903" ph="/** @type {function} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="938:959" ph="/** @type {Object} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="992:1030" ph="/** @param {*} [value] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1057:1134" ph="/** @param {(string|string[])} [locales] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1199:1257" ph="/** @param {PropertyKey} propertyName ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1319:1361" ph="/** @param {Object} o ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1411:1469" ph="/** @param {PropertyKey} propertyName ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1537:1560" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1604:1622" ph="/** @return {*} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1666:1687" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1716:1768" ph="/** @param {...*} [args] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1793:1851" ph="/** @param {...T|Array.&lt;T&gt;} [items] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1897:1948" ph="/** @param {string} [separator] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="1996:2014" ph="/** @return {T} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2052:2097" ph="/** @param {...T} [items] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2141:2167" ph="/** @return {Array.&lt;T&gt;} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2209:2227" ph="/** @return {T} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2267:2339" ph="/** @param {Number} [start] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2388:2444" ph="/** @param {function} [compareFn] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2492:2594" ph="/** @param {Number} [start] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2658:2703" ph="/** @param {...T} [items] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2750:2772" ph="/** @return {Array} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2815:2867" ph="/** @param [value] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2895:2919" ph="/** @return {boolean} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="2964:3168" ph="/** @param {number} year ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3245:3303" ph="/** @param {string} dateString ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3342:3380" ph="/** @param {...*} args ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3404:3427" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3468:3491" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3531:3554" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3596:3619" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3664:3687" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3729:3752" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3801:3824" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3868:3891" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3935:3958" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="3999:4022" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4073:4096" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4140:4163" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4206:4229" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4277:4300" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4345:4368" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4420:4443" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4490:4513" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4558:4581" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4628:4651" ph="/** @return {number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4692:4719" ph="/** @param {number} date ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4764:4837" ph="/** @param {number} year ...*/" />
-            <marker date="1481021688000" expanded="true" signature="4896:4988" ph="/** @param {number} hour ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5045:5070" ph="/** @param {number} ms ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5121:5190" ph="/** @param {number} min ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5244:5294" ph="/** @param {number} month ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5345:5392" ph="/** @param {number} sec ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5442:5469" ph="/** @param {number} time ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5514:5541" ph="/** @param {number} date ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5589:5662" ph="/** @param {number} year ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5724:5816" ph="/** @param {number} hour ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5876:5901" ph="/** @param {number} ms ...*/" />
-            <marker date="1481021688000" expanded="true" signature="5955:6024" ph="/** @param {number} min ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6081:6131" ph="/** @param {number} month ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6185:6232" ph="/** @param {number} sec ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6285:6313" ph="/** @param {number} value ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6359:6382" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6428:6451" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6496:6573" ph="/** @param {(string|string[])} [locales] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6640:6717" ph="/** @param {(string|string[])} [locales] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6780:6857" ph="/** @param {(string|string[])} [locales] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6924:6947" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="6993:7016" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7062:7085" ph="/** @type {function} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7118:7160" ph="/** @type {function} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7245:7276" ph="/** @type {Arguments} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7311:7339" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7370:7398" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7430:7500" ph="/** @param {Object} [thisArg] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7559:7624" ph="/** @param {Object} [thisArg] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7694:7730" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7743:7779" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7795:7831" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7846:7882" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7900:7936" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="7953:7989" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8003:8039" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8058:8094" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8111:8160" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8188:8237" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8266:8315" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8344:8393" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8422:8489" ph="/** @param {number} y ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8521:8570" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8599:8648" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8676:8725" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8753:8802" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8832:8881" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8909:8961" ph="/** @param {...number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="8989:9041" ph="/** @param {...number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9069:9136" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9166:9197" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9227:9276" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9306:9355" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9383:9432" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9461:9510" ph="/** @param {number} x ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9550:9586" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9609:9645" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9668:9704" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9721:9757" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9788:9824" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9855:9906" ph="/** @param [value] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="9933:9991" ph="/** @param {Number} [fractionalDigits] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10056:10114" ph="/** @param {Number} [fractionalDigits] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10173:10224" ph="/** @param {Number} [precision] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10280:10327" ph="/** @param {Number} [radix] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10376:10399" ph="/** @return {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10443:10479" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10507:10543" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10565:10601" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10627:10663" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10689:10725" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10754:10790" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10809:10845" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10864:10900" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10919:10955" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="10974:11010" ph="/** @static ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11029:11058" ph="/** @type {boolean} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11088:11117" ph="/** @type {boolean} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11151:11172" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11205:11227" ph="/** @type {boolean} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11260:11281" ph="/** @type {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11314:11392" ph="/** @param {String|RegExp} [pattern] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11429:11505" ph="/** @param {string} [String] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11551:11600" ph="/** @param {string} [String] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11647:11705" ph="/** @param {...Number} [chars] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11748:11769" ph="/** @type {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11799:11850" ph="/** @param [value] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11877:11932" ph="/** @param {string} [nameAttribute] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="11987:12010" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12049:12072" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12113:12136" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12176:12219" ph="/** @param {Number} pos ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12264:12287" ph="/** @return {Number} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12338:12390" ph="/** @param {...string} [strings] ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12439:12462" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12503:12548" ph="/** @param {string} color ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12598:12642" ph="/** @param {Number} size ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12690:12769" ph="/** @param {string} searchString ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12833:12856" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="12899:12978" ph="/** @param {string} searchString ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13046:13090" ph="/** @param {string} href ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13134:13232" ph="/** @param {string} that ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13301:13375" ph="/** @param {RegExp} regexp ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13422:13518" ph="/** @param {RegExp|string} searchValue ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13585:13626" ph="/** @param {*} regexp ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13674:13741" ph="/** @param {Number} start ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13791:13814" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13855:13922" ph="/** @param {*} separator ...*/" />
-            <marker date="1481021688000" expanded="true" signature="13978:14001" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14043:14066" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14105:14175" ph="/** @param {Number} start ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14229:14296" ph="/** @param {Number} start ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14350:14373" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14412:14435" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14482:14505" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14558:14581" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14634:14657" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14704:14727" ph="/** @return {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14771:14792" ph="/** @type {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14822:14843" ph="/** @type {string} ...*/" />
-            <marker date="1481021688000" expanded="true" signature="14876:14928" ph="/** @param {*} [msg] ...*/" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,10 +402,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/01-object-methids/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/01-object-methids/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/02-valueOf-toString/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/03-constructors/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/03-constructors/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/04-descriptors/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-objects/04-descriptors/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
           <folding />
         </state>
       </provider>
