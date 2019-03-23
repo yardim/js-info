@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8964e93c-fedf-43c1-82c4-72c19dc06cc6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/03-constructors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/03-constructors/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/04-descriptors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6-objects/04-descriptors/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -307,7 +302,7 @@
       <updated>1553195460480</updated>
       <workItem from="1553195462269" duration="8038000" />
       <workItem from="1553372835564" duration="637000" />
-      <workItem from="1553373486527" duration="3314000" />
+      <workItem from="1553373486527" duration="3346000" />
     </task>
     <task id="LOCAL-00001" summary="Finished 6.2 types exchanging">
       <created>1553204666040</created>
@@ -323,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553205549640</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished 6.4 - object descriptors">
+      <created>1553378693686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553378693686</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11989000" />
+    <option name="totallyTimeSpent" value="12021000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,7 +371,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Finished 6.2 types exchanging" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished 6.2 types exchanging" />
+    <MESSAGE value="Finished 6.4 - object descriptors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished 6.4 - object descriptors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
