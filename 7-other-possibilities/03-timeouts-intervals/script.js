@@ -1,50 +1,69 @@
 // ===========================
 // throttle
 
-function throttle(f, ms) {
-    let isCalled = false;
-    let args;
-    let _this;
+// function throttle(f, ms) {
+//     let isCalled = false;
+//     let args;
+//     let _this;
 
-    return function () {
-        if (!isCalled) {
+//     return function () {
+//         if (!isCalled) {
+//             f.apply(this, arguments);
+//             isCalled = true;
+//         } else {
+//             args = arguments;
+//             _this = this;
+//             return;
+//         }
+
+//         setTimeout(() => {
+//             if (args) {
+//                 f.apply(_this, args);
+//             }
+
+//             isCalled = false;
+//             args = null;
+//         }, ms);
+//     }
+// }
+
+
+
+// ===========================
+// throttle 2.0
+
+function throttle(f, ms) {
+    let lastCallTime;
+    let timerId;
+
+    return function() {
+        const currentTime = Date.now();
+
+        if (!lastCallTime) {
             f.apply(this, arguments);
-            isCalled = true;
-        } else {
-            args = arguments;
-            _this = this;
+            lastCallTime = currentTime;
             return;
         }
 
-        setTimeout(() => {
-            if (args) {
-                f.apply(_this, args);
-            }
-
-            isCalled = false;
-            args = null;
-        }, ms);
+        if (currentTime - lastCallTime < 1000) {
+            clearTimeout(timerId);
+            timerId = setTimeout(() => {
+                f.apply(this, arguments);
+                lastCallTime = currentTime;
+            }, ms);
+        }
     }
 }
 
-let f = function (a) {
-    console.log(a)
-};
+let log = '';
+
+function f(a) {
+    log += a;
+    console.log(log);
+}
 
 let f1000 = throttle(f, 1000);
 
-f1000(1); // выведет 1
-f1000(2); // (тормозим, не прошло 1000 мс)
-
-setTimeout(() => {
-    f1000(3);
-}, 500);
-
-setTimeout(() => {
-    f1000(4);
-}, 2500);
-
-// setTimeout(() => {
-//     f1000(5);
-//     f1000(6);
-// }, 2600);
+f1000(1);
+f1000(2);
+f1000(3);
