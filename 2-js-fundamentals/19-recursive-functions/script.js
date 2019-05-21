@@ -70,5 +70,48 @@ function fibo(n) {
 console.log(fibo(1));
 console.log(fibo(2));
 console.log(fibo(3));
+console.log(fibo(4));
+console.log(fibo(5));
+console.log(fibo(6));
 console.log(fibo(7));
+console.log(fibo(8));
+console.log(fibo(9));
 console.log(fibo(10));
+
+
+
+// ======================================
+// Fibonachi
+
+function fiboCycle(n) {
+  if (n === 1) {
+    return 0;
+  }
+
+  if (n <= 3) {
+    return 1
+  }
+
+  let nMin2 = 1;
+  let nMin1 = 1;
+  let current;
+
+  for (let i = 4; i <= n; i += 1) {
+    current = nMin1 + nMin2;
+    nMin2 = nMin1;
+    nMin1 = current;
+  }
+
+  return current;
+}
+
+console.log(fiboCycle(1));
+console.log(fiboCycle(2));
+console.log(fiboCycle(3));
+console.log(fiboCycle(4));
+console.log(fiboCycle(5));
+console.log(fiboCycle(6));
+console.log(fiboCycle(7));
+console.log(fiboCycle(8));
+console.log(fiboCycle(9));
+console.log(fiboCycle(10));
