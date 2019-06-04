@@ -20,7 +20,6 @@
 
 Function.prototype.defer = function(ms) {
   const _this = this;
-  console.log(this);
 
   return function() {
     setTimeout(() => {
